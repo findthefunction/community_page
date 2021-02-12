@@ -1,2 +1,2 @@
-# community_page
-some volunteer webstuff
+# goldendwarf
+natural languange processing component
